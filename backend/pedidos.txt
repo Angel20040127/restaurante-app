@@ -1,0 +1,4 @@
+Sistema de pedidos:
+- Registrar pedido
+- Cancelar pedido
+- Consultar pedido
